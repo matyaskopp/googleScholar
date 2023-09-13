@@ -44,3 +44,67 @@ cuniID	year	title	googleScholarID	googleScholarTitle	harvestDate	citations	versi
 557802	2018	Towards Full-Pipeline Handwritten OMR with Musical Symbol Detection by U-Nets	2071695484705768813	Towards Full-Pipeline Handwritten OMR with Musical Symbol Detection by U-Nets.	2023-09-13	37	4
 557853	2018	Translating Short Segments with NMT: A Case Study in English-to-Hindi	11542924712264628279	Translating short segments with nmt: A case study in english-to-hindi	2023-09-13	6	12
 557816	2018	Prefixal Morphemes of Czech Verbs		Prefixal Morphemes of Czech Verbs	2023-09-13	0	0
+557838	2018	Morphological and Language-Agnostic Word Segmentation for NMT	12228842335314126591	Morphological and language-agnostic word segmentation for nmt	2023-09-13	23	3
+557781	2018	Deep Neural Networks at the Service of Multilingual Parallel Sentence Extraction	13642304372526488075	Deep neural networks at the service of multilingual parallel sentence extraction	2023-09-13	12	3
+557866	2018	Synonymy in Bilingual Context: The CzEngClass Lexicon	17372391245028722276	Synonymy in Bilingual Context: The CzEngClass Lexicon	2023-09-13	7	4
+557796	2018	Are BLEU and Meaning Representation in Opposition?	9158420003658623306	Are BLEU and meaning representation in opposition?	2023-09-13	18	4
+557803	2018	How current optical music recognition systems are becoming useful for digital libraries	10263137079597286974	How current optical music recognition systems are becoming useful for digital libraries	2023-09-13	10	4
+557824	2018	LemmaTag: Jointly Tagging and Lemmatizing for Morphologically Rich Languages with BRNNs	9661485120860085638	Lemmatag: jointly tagging and lemmatizing for morphologically-rich languages with BRNNs	2023-09-13	38	7
+557832	2018	End-to-End Non-Autoregressive Neural Machine Translation with Connectionist Temporal Classification	8061933980031139908	End-to-end non-autoregressive neural machine translation with connectionist temporal classification	2023-09-13	137	11
+557855	2018	CUNI x-ling: Parsing under-resourced languages in CoNLL 2018 UD Shared Task	11147401896945887086	CUNI x-ling: Parsing under-resourced languages in CoNLL 2018 UD shared task	2023-09-13	11	7
+557872	2018	CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies	12815994839541487485	CoNLL 2018 shared task: Multilingual parsing from raw text to universal dependencies	2023-09-13	582	27
+557793	2018	A Morphological Analyzer for Shipibo-Konibo	1265554400206980425	A morphological analyzer for Shipibo-konibo	2023-09-13	11	6
+557840	2018	Extracting Syntactic Trees from Transformer Encoder Self-Attentions	16211376488099700247	Extracting syntactic trees from transformer encoder self-attentions	2023-09-13	37	5
+557847	2018	PAWS: A Multi-lingual Parallel Treebank with Anaphoric Relations	2326137729917533941	PAWS: A multi-lingual parallel treebank with anaphoric relations	2023-09-13	8	6
+557848	2018	A Fine-grained Large-scale Analysis of Coreference Projection	10774998067345678447	A fine-grained large-scale analysis of coreference projection	2023-09-13	3	4
+557827	2018	Second-Generation Web Interface to Correcting ASR Output			2023-09-13		
+557843	2018	What Can We Find Out about Time and Space in the ForFun Database?			2023-09-13		
+557786	2018	Expletives in Universal Dependency Treebanks	7604573473928827945	Expletives in universal dependency treebanks	2023-09-13	11	7
+557794	2018	Challenges in Converting the Index Thomisticus Treebank into Universal Dependencies	18057106687729444875	Challenges in converting the Index Thomisticus treebank into universal dependencies	2023-09-13	26	10
+557797	2018	Mind the Gap: Data Enrichment in Dependency Parsing of Elliptical Constructions	3338784256345183814	Mind the gap: Data enrichment in dependency parsing of elliptical constructions	2023-09-13	8	9
+557818	2018	Trivial Transfer Learning for Low-Resource Neural Machine Translation	7398296665340743618	Trivial transfer learning for low-resource neural machine translation	2023-09-13	154	10
+557833	2018	Input Combination Strategies for Multi-Source Transformer Decoder	13079892490408764840	Input combination strategies for multi-source transformer decoder	2023-09-13	73	13
+557784	2018	Findings of the 2018 Conference on Machine Translation (WMT18)			2023-09-13		
+557785	2018	EvalD Reference-Less Discourse Evaluation for WMT18	14710277086608720609	Evald reference-less discourse evaluation for wmt18	2023-09-13	13	6
+557787	2018	The WMT'18 Morpheval test suites for English-Czech, English-German, English-Finnish and Turkish-English	15949100023944271025	The WMT'18 Morpheval test suites for English-Czech, English-German, English-Finnish and Turkish-English	2023-09-13	26	20
+557795	2018	Testsuite on Czech-English Grammatical Contrasts	9917794133691525325	Testsuite on Czech–English grammatical contrasts	2023-09-13	8	5
+557810	2018	CUNI System for the WMT18 Multimodal Translation Task	7256049717782983238	CUNI system for the WMT18 multimodal translation task	2023-09-13	77	21
+557820	2018	CUNI Submissions in WMT18	5093081660643545097	Cuni submissions in wmt18	2023-09-13	7	6
+557836	2018	Results of the WMT18 Metrics Shared Task: Both characters and embeddings achieve good performance	2117378212020078290	Results of the WMT18 metrics shared task: Both characters and embeddings achieve good performance	2023-09-13	104	5
+557854	2018	CUNI Transformer Neural MT System for WMT18	5399415420810554257	CUNI transformer neural MT system for WMT18	2023-09-13	47	6
+551979	2018	Quantitative Analysis of Syntactic Dependency in Czech	14848782543142864883	Quantitative analysis of syntactic dependency in Czech	2023-09-13	1	3
+557772	2018	Konkurence předložkových pádů u jádra lokálních určení v češtině	6358796002914707788	Konkurence předložkových pádů u jádra lokálních určení v češtině	2023-09-13	1	0
+573210	2018	Valency Lexicon of Czech Nouns NomVallex: Starting Point and Goals			2023-09-13		
+557749	2018	Hranice flektivní a derivační morfologie: Případ předpony po- u českých sloves	13039907823388031268	Hranice flektivní a derivační morfologie: Případ předpony po-u českých sloves.	2023-09-13	1	3
+557751	2018	Alternace konstrukcí s aktorem a instrumentem v paralelním česko-anglickém závislostním korpusu	18194509381453164917	Alternace konstrukcí s aktorem a instrumentem v paralelním česko-anglickém závislostním korpusu.	2023-09-13	3	3
+557736	2018	Enriching VALLEX with Light Verbs: From Theory to Data and Back Again	14765697149862728545	Enriching VALLEX with light verbs: from theory to data and back again	2023-09-13	5	5
+557738	2018	Search for the Relation of Form and Function Using the ForFun Database		Search for the Relation of Form and Function Using the ForFun Database	2023-09-13	0	4
+557745	2018	Training Tips for the Transformer Model	17790115909320746734	Training tips for the transformer model	2023-09-13	315	5
+557748	2018	Modelling Morphographemic Alternations in Derivation of Czech	342754153938204917	Modelling morphographemic alternations in derivation of Czech	2023-09-13	8	3
+608132	2018	Adding Words to Manuscripts: From PagesXML to TEITOK	13867996587945830391	Adding words to manuscripts: From PagesXML to TEITOK	2023-09-13	4	2
+557733	2018	Learning Audio-Sheet Music Correspondences for Cross-Modal Retrieval and Piece Identification	6358803260396542912	Learning audio–sheet music correspondences for cross-modal retrieval and piece identification	2023-09-13	56	6
+557817	2018	Lexicographic Potential of the Syntactic Properties of Verbs: The Case of Reciprocity in Czech			2023-09-13		
+557742	2018	Diateze a reciprocita (na materiálu češtiny)		DIATEZE A RECIPROCITA (na materiálu češtiny)	2023-09-13	0	2
+557755	2018	Coreference from the Cross-lingual Perspective	18202020181918395084	Coreference from the Cross-lingual Perspective	2023-09-13	3	2
+557756	2018	Diskurzní konektory v češtině: Od centra k periferii			2023-09-13		
+560644	2018	Strojový překlad z vietnamštiny do češtiny pro účely Národní protidrogové centrály Policie ČR			2023-09-13		
+557876	2018	Dávkový překlad IBM			2023-09-13		
+557877	2018	Morphological Analyzer for Shipibo-Konibo	1265554400206980425	A morphological analyzer for Shipibo-konibo	2023-09-13	11	6
+557878	2018	Czech Version of the Multi30k dataset			2023-09-13		
+557879	2018	Czech image captioning, machine translation, and sentiment analysis (Neural Monkey models)			2023-09-13		
+557880	2018	DATLOWE: software pro textovou analytiku			2023-09-13		
+557881	2018	VALLEX 3.5 - Valenční slovník českých sloves			2023-09-13		
+557883	2018	EVALD 3.0 - Evaluator of Discourse			2023-09-13		
+557884	2018	PAWS	5774559466490493425	The feasibility of brief dog-assisted therapy on university students stress levels: The PAwS study	2023-09-13	93	7
+557895	2018	Plaintext Wikipedia dump 2018			2023-09-13		
+557896	2018	CzEngClass 0.1			2023-09-13		
+557897	2018	CzEngClass 0.2			2023-09-13		
+557922	2018	DeriNet verze 1.6			2023-09-13		
+557928	2018	CoNLL 2018 Shared Task System Outputs			2023-09-13		
+557929	2018	Enriched Discourse Annotation of PDiT Subset 1.0 (PDiT-EDA 1.0)			2023-09-13		
+558221	2018	EVALD 3.0 for Foreigners - Evaluator of Discourse			2023-09-13		
+560649	2018	VIADAT-SEARCH			2023-09-13		
+560939	2018	HIDOAR - software pro polouatomatické zpracování a zpřístupnění textových a zvukových nahrávek v integrovaném archivu pramenů			2023-09-13		
+573277	2018	Artificial Treebank with Ellipsis			2023-09-13		
+573278	2018	Prague Dependency Treebank 3.5			2023-09-13		
+593829	2018	POLISYS - analýza textových dat pro potřeby Policie ČR			2023-09-13		
