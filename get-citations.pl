@@ -6,6 +6,7 @@ use open qw(:std :utf8);
 use utf8;
 use Getopt::Long;
 use Text::CSV qw/csv/;
+use DateTime;
 
 use Data::Dumper;
 
@@ -53,7 +54,7 @@ $tsv_out->print($OUTPUT,[$tsv_out->column_names]) unless $append;
 
 my $row;
 my @rows;
-my $today;
+my $today = DateTime->now->ymd;
 
 my $lineCnt = 0;
 while (my $record = $tsv_in->getline_hr($INPUT)) {
@@ -67,12 +68,12 @@ while (my $record = $tsv_in->getline_hr($INPUT)) {
     print "INFO: skipping line $lineCnt (",$result->{cuniID},")\n";
     next;
   }
-  print "INFO: getting line $lineCnt (",$result->{cuniID},")\n";
+  print "INFO: getting line $lineCnt (",$result->{cuniID},")  $today\n";
   my $statusOK = queryGoogleScholar($result,$result->{year}, $result->{title});
   last unless $statusOK;
   $tsv_out->print_hr ($OUTPUT, $result);
   $tsv_out->print_hr (*STDOUT, $result);
-
+  sleep(int(rand(100)));
 }
 
 close $INPUT if $in;
