@@ -1104,7 +1104,7 @@ class ScholarQuerier(object):
 
             return html
         except Exception as err:
-            ScholarUtils.log('info', 'HTTP ERROR ' + err_msg + ': %s' % err)
+            ScholarUtils.log('error', 'HTTP ERROR ' + err_msg + ': %s' % err)
             return None
 
 
