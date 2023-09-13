@@ -568,8 +568,8 @@ class ScholarArticleParser120726(ScholarArticleParser):
             if not hasattr(tag, 'name'):
                 continue
             if str(tag).lower().find('.pdf'):
-                if tag.find('div', {'class': 'gs_ttss'}):
-                    self._parse_links(tag.find('div', {'class': 'gs_ttss'}))
+                if tag.findNext('div', attrs={'class': 'gs_ttss'}):
+                    self._parse_links(tag.findNext('div', attrs={'class': 'gs_ttss'}))
 
             if tag.name == 'div' and self._tag_has_class(tag, 'gs_ri'):
                 # There are (at least) two formats here. In the first
@@ -1017,6 +1017,7 @@ class ScholarQuerier(object):
         """
         self.clear_articles()
         self.query = query
+        ScholarUtils.log('info',query.get_url());
 
         html = self._get_http_response(url=query.get_url(),
                                        log_msg='dump of query response HTML',
@@ -1103,7 +1104,7 @@ class ScholarQuerier(object):
 
             return html
         except Exception as err:
-            ScholarUtils.log('info', err_msg + ': %s' % err)
+            ScholarUtils.log('info', 'HTTP ERROR ' + err_msg + ': %s' % err)
             return None
 
 
@@ -1210,7 +1211,7 @@ scholar.py -c 5 -a "albert einstein" -t --none "quantum theory" --after 1970"""
     group = optparse.OptionGroup(parser, 'Miscellaneous')
     group.add_option('--cookie-file', metavar='FILE', default=None,
                      help='File to use for cookie storage. If given, will read any existing cookies if found at startup, and save resulting cookies in the end.')
-    group.add_option('-d', '--debug', action='count', default=0,
+    group.add_option('-d', '--debug', type='int', default=0,
                      help='Enable verbose logging to stderr. Repeated options increase detail of debug output.')
     group.add_option('-v', '--version', action='store_true', default=False,
                      help='Show version information')
